@@ -1,8 +1,8 @@
 #!/bin/bash
-#by vishwaraj101
+#by @vishwaraj101
 
 set_upper_limit=95
-set_lower_limit=53
+set_lower_limit=10
 
 _is_charger_removed(){
 count=1
